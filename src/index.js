@@ -21,7 +21,7 @@ function mycard(val){
 
 ReactDOM.render(
  <>
- <h1 className="heading_style">A <span>Netfilx</span> OrIgNioal <span>SeriEs</span></h1>
+ <h1 className="heading_style">A <span>Netfilx</span> OrIginal <span>SeriEs</span></h1>
      
     
       {Sdata.map(mycard)};
